@@ -1,4 +1,4 @@
-<script>
+
 
 
 	
@@ -15,4 +15,4 @@ gform.addFilter( 'gform_datepicker_options_pre_init', function( optionsObj, form
 });
 	
 	
-	</script>
+
